@@ -1,0 +1,8 @@
+div.Footer{
+    text-align: center;
+    background-color: rgb(104, 98, 98);
+    color: white;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
